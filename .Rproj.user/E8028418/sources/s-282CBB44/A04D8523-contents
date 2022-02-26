@@ -1,4 +1,5 @@
 library(blogdown)
-y
+blogdown::new_site(theme = "HEIGE-PCloud/DoIt")
+
 
 serve_site()
