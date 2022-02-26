@@ -1,5 +1,5 @@
 library(blogdown)
-blogdown::new_site(theme = "onweru/compose")
+blogdown::new_site(theme = "themefisher/bigspring-light")
 
 
 serve_site()

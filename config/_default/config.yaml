@@ -1,0 +1,11 @@
+baseURL: http://demo.gethugothemes.com/bigspring-light/examplesite/
+title: Statistics I
+theme: bigspring-light
+paginate: '3'
+summaryLength: '15'
+disqusShortname: ''
+googleAnalytics: ''
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
