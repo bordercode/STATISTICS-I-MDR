@@ -1,5 +1,5 @@
 library(blogdown)
-blogdown::new_site(theme = "HEIGE-PCloud/DoIt")
+blogdown::new_site(theme = "onweru/compose")
 
 
 serve_site()

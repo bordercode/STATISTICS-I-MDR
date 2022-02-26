@@ -1,0 +1,13 @@
+baseURL: https://example.com/
+title: Statistics I MDR
+enableRobotsTXT: yes
+theme: compose
+enableGitInfo: yes
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
