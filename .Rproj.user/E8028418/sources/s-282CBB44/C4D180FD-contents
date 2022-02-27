@@ -45,17 +45,6 @@ url = "Jupyternb/"
 
 
 # footer menu middle
-[[footer_middle]]
-name = "Pricing"
-url = "pricing/"
-
-[[footer_middle]]
-name = "Platform"
-url = "#"
-
-[[footer_middle]]
-name = "Features"
-url = "#"
 
 # footer menu right
 [[footer_right]]
