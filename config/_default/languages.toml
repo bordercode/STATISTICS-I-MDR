@@ -6,9 +6,9 @@ contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
 footer_menu_left = "Importante"
-footer_menu_middle = "Product"
+footer_menu_middle = "Tutoriales"
 footer_menu_right = "Administrativo"
-footer_content = "zaz"
+footer_content = "Maestría en Desarrollo Regional"
 # copyright
 copyright = "José Luis Manzanares Rivera site Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
 

@@ -46,6 +46,12 @@ url = "Jupyternb/"
 
 # footer menu middle
 
+[[footer_middle]]
+name = "Tutoriales"
+url = "Videos/"
+
+
+
 # footer menu right
 [[footer_right]]
 name = "Programa"
