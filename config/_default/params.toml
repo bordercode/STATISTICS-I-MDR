@@ -6,7 +6,7 @@ description = "This is meta description"
 author = "Themefisher"
 image = "images/logo1.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xvolrokq" # contact form works with https://formspree.io
 
 # Type of pages to be rendered with a blog view
 blogCategoryType = "category"
@@ -32,8 +32,8 @@ button = "I Accept"
 ############################# social site ########################
 [[social]]
 title = "José Luis at El Colef"
-icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+icon = "fab fa-creative-commons-share" # themify icon : https://themify.me/themify-icons
+link = "https://www.colef.mx/posgrado/profesores/jose-luis-manzanares-rivera/"
 
 [[social]]
 title = "twitter"
@@ -42,10 +42,10 @@ link = "https://twitter.com/JLManzanaresR"
 
 [[social]]
 title = "Your teacher academic credentials"
-icon = "fab fa-user" # themify icon : https://themify.me/themify-icons
+icon = "fab fa-ello" # themify icon : https://themify.me/themify-icons
 link = "https://joseluismanzanaresrivera.github.io/profile/index.html"
 
 [[social]]
 title = "Real data analysis project hub"
-icon = "ti-direction-alt" # themify icon : https://themify.me/themify-icons
+icon = "fab fa-deezer" # themify icon : https://themify.me/themify-icons
 link = "https://insight4health.netlify.app/"
