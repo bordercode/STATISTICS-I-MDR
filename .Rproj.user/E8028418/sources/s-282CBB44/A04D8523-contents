@@ -1,6 +1,0 @@
-library(blogdown)
-blogdown::new_site(theme = "themefisher/bigspring-light")
-
-
-serve_site()
-blogdown::stop_server()

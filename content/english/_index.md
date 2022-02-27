@@ -4,7 +4,7 @@ banner:
     enable: true
     label: Inicio
     link: blog/
-  content: <div align="left"> En esta aasignatura aprenderas a aplicar los fundamentos teórico-metodológicos de la estadística y aplicar la estadística descriptiva e inferencial en variables en distintos contexto de interés para eñ desarrollo regional como economía, salud pública y medio ambiente, loq que tepermitirá analizar una determinada dinámica incorporando una perspectiva territorial. </div>
+  content: <div align="left"> En esta asignatura aprenderas a aplicar los fundamentos teórico-metodológicos de la estadística y aplicar la estadística descriptiva e inferencial en variables en distintos contexto de interés para eñ desarrollo regional como economía, salud pública y medio ambiente, loq que tepermitirá analizar una determinada dinámica incorporando una perspectiva territorial. </div>
     
   image: images/banner-art.svg
   title: Estadística I
@@ -21,22 +21,22 @@ feature:
   enable: true
   feature_item:
   - content: Presentar la vinculación entre estadística descriptiva e inferencial, así como implementar el cálculo de los estimadores clásicos usando el lenguaje R la plataforma R Studio. Y el lenguaje Python mediante la aplicación Jupyter Notebooks. 
-    icon: fas fa-code
+    icon: fas fa-chart-pie
     name: Estadística descriptiva Análisis exploratorio.  
   - content: Entender probabilidad básica y distribuciones probabilísticas.
-    icon: fas fa-object-group
+    icon: fas fa-chart-bar
     name: Distribuciones de Probabilidad
   - content: Comprender, aplicar e interpretar los conceptos básicos de la Inferencia estadística y su relación con la inferencia causal 
-    icon: fas fa-user-clock
+    icon: fas fa-pen
     name: Inferencia
   - content: Introducción de los modelos de regresión para medir la relación estadística entre variables y calibrar vínculos causales 
-    icon: fas fa-heart
+    icon: fas fa-chart-area
     name: Introducción a los modelos de Regresión Lineal 
   - content: Los modelos de Regresión Múltiple y el Diagnóstico de los resultados 
-    icon: fas fa-tachometer-alt
+    icon: fas fa-chart-line
     name: Extensiones al Regresión lineal y Diagnóstico de resultados
   - content: Conocer técnicas estadísticas multivanadas para generar grupos de observaciones basadas en el comportamiento de los datos.
-    icon: fas fa-cloud
+    icon: fas fa-book
     name: Métodos de da datos y reducción dimensiones 
   title: Estructura del curso
 screenshot:
@@ -47,7 +47,7 @@ service:
   enable: true
   service_item:
   - button:
-      enable: true
+      enable: false
       label: Check it out
       link: '#'
     content: La orientación del curso se dirige es aplicar la estadística al estudio teórico y práctico de los métodos de recolección, tabulación, análisis numérico y regresión lineal, para que el estudiante desarrolle su propio concepto filosófico del análisis estadístico y llegue a dominar las técnicas de descripción e interpretación de datos y análisis causal aplicándolas con rigor para resolver problemas en su área de conocimiento especifico.

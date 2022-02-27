@@ -2,13 +2,14 @@
 description: This is meta description
 draft: false
 subtitle: ""
-title: Contact Us
+title: Tutorias 
 ---
 
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+### Agenda una tutoria.
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+En el proceso de ensenanza-aprendizaje a menudo surgen dudas o simplemente tienes preguntas sobre ideas que deseas clarificar. Si es el caso, no hay problema, eres bievenido, estas en el sitio correcto. Agenda una cita con el Dr. José Luis Manzanares Rivera para aclarar duras o plantear tus inquietudes sobre los temas vistos en clase. 
+
+ 
+* **Mail: jlmanzanares@colef.mx**
+* **Horario.  Martes Jueves y Viernes 9 am - 12** 
