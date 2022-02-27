@@ -22,7 +22,8 @@ Presentar la vinculación entre estadística descriptiva e inferencial, así com
 
  
 
-#### Tiempo asignado para el tema 7 horas. Distribuidas en 3 seseiones. 
+##### Tiempo asignado para el tema:
+7 horas. Distribuidas en 3 seseiones. 
 <br>
 
 ## Heading 2 
