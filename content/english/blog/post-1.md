@@ -3,16 +3,26 @@ date: "2020-04-18T10:07:21+06:00"
 description: This is meta description
 draft: false
 image: images/blog/post-1.jpg
-title: Adversus is a web-based dialer and practical CRM solution
+title: I. Estadística descriptiva y Análisis exploratorio.  
 type: featured
 ---
 
 
-#### Heading example
+#### Objetivo 
 
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
+Presentar la vinculación entre estadística descriptiva e inferencial, así como implementar el cálculo de los estimadores clásicos usando el lenguaje R la plataforma R Studio. Y el lenguaje Python mediante la aplicación Jupyter Notebooks. 
 
-# Heading 1 
+##### Objetivos específicos. 
+
++  El alumno aprenderá la importancia de la realización de análisis  replicable de datos. ¿Qué entendemos por análisis estadistico replicable?
+
++ El alumno conocerá las herramientas para trabajar en un entorno replicable de análisis estadístico. Concretamente se presentarán las herramientes de código abierto **R Studio** y  **Jupyter notebooks** basadas en el lenguaje R y **Python** respectivamente.
+
++ Se 
+
+ 
+
+#### Tiempo asignado para el tema 7 horas. Distribuidas en 3 seseiones. 
 <br>
 
 ## Heading 2 
