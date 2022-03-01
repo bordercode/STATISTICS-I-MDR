@@ -9,5 +9,6 @@ title: Carta descriptiva
 
 
 
-[](https://drive.google.com/file/d/1g9KTAxcO0T1CZEmiNP8UXlMRrXsJycx1/view?usp=sharing)
-[](https://drive.google.com/file/d/1QxY2xvygf17LgzbdxRv99pah2rcYPFS2/view?usp=sharing)
+![](carta_origial.jpg)
+
+![](carta_origial_pag1.jpg)
