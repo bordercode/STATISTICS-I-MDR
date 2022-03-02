@@ -6,7 +6,7 @@ title: Bibliografia
 ---
 
 
-## Textos recomendados por tema. 
+## Materiales recomendados por tema. 
 
 + Statistics, 2017.  Robert S. Witte,  Robert S. Witte,  Hoboken, NJ: John Wiley & Sons.
 
