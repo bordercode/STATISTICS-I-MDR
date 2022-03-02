@@ -15,11 +15,7 @@ copyright = "José Luis Manzanares Rivera site Design By [Themefisher](https://t
 
 
 ############################# Deutsch ############################
-[de]
-languageName = "De"
-title = "Bigspring Hugo"
-contentDir = "content/deutsch" # content/german
-weight = 2
+
 ########### footer content ##########
 footer_menu_left = "Firma"
 footer_menu_middle = "Produkte"
