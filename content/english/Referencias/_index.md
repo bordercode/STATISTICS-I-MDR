@@ -46,10 +46,11 @@ Springer.
 
 (Unidad VI Teoría sobre método PCA )
 
-+ Practical Guide to Principal Component Methods in R  Alboukadel KASSAMBAR, 
++ Practical Guide to Principal Component Methods in R  2017. Alboukadel KASSAMBAR, 
+
 (Unidad VI)
 
-+ Practical Guide To Cluster Analysis in R  Alboukadel KASSAMBAR
++ Practical Guide To Cluster Analysis in R  2017 Alboukadel KASSAMBAR
 
 (Unidad VI, Excelente para intro  to R   Sesión I Unidad I )
 
