@@ -25,7 +25,7 @@ Springer.
 
 (Unidad II)
 
-+ Think Stats, 2nd Edition Exploratory Data Analysis by Allen B. Downey 2014, 
++ Think Stats, 2nd Edition 2014, Exploratory Data Analysis, Allen B. Downey  
 
 (Unidad II y III)
 
