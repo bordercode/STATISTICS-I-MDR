@@ -1,12 +1,10 @@
 ---
-date: "2022-03-01T10:08:21+06:00"
-description: This is meta description
-draft: false
-image: 
-title: P2  
-type: featured
+title: "Sesión 2"
+author: "JLMR"
+date: 2022-03-01T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
 ---
-
 
 
 
