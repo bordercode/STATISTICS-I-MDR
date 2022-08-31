@@ -7,6 +7,7 @@ title: I. Estadística descriptiva y Análisis exploratorio.
 type: featured
 ---
 
+### Sesión 2
 
 #### Objetivo 
 
@@ -18,6 +19,10 @@ Presentar la vinculación entre estadística descriptiva e inferencial, así com
 
 + El alumno conocerá las herramientas para trabajar en un entorno replicable de análisis estadístico. Concretamente se presentarán las herramientes de código abierto **R Studio** y  **Jupyter notebooks** basadas en el lenguaje R y **Python** respectivamente.
 
-+
++ El alumno será capaz de realizar estimaciones  y en su caso representar visualmente, la  distribución de frecuencia, las medidas de tendencia central y dispersión (Media, Mediana, Moda. Rango).
+
 ##### Tiempo asignado para el tema:
-7 horas. Distribuidas en 4 sesiones. 
+3 horas. 
+
+
+### Actividad a evaluar.
