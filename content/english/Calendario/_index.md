@@ -11,10 +11,13 @@ Las sesiones se llevarán a cabo en los siguientes horarios:
 
 ## Septiembre
 
-> **Miércoles   7** 
+> **Miércoles   7**  Presentación del profesor, entrega y explicación del programa del curso: objetivos de aprendizaje, temario, bibliografía, actividades evaluativas y  método de evaluación. 
+
 > **10  am - 1:00 pm**
 
-> **Miércoles 9:30 am - 11:00 am**
+
+
+> **Viernes  9:30 am - 11:00 am**
 
 
 ### Sesiones por mes.
