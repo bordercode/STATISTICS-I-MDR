@@ -58,7 +58,7 @@ name = "Programa"
 url = "Programa/"
 
 [[footer_right]]
-name = "Calendario de entregas"
+name = "Calendario de sesiones"
 url = "Calendario/"
 
 [[footer_right]]
