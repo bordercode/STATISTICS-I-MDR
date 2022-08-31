@@ -11,7 +11,7 @@ Las sesiones se llevarán a cabo en los siguientes horarios:
 
 ## Septiembre
 
-> ** Miércoles     10  am - 1:00 pm**
+> **Miércoles   7  10  am - 1:00 pm**
 
 > **Miércoles 9:30 am - 11:00 am**
 
