@@ -25,6 +25,7 @@ knitr::opts_chunk$set(eval = TRUE,
 
 
 ```{r silent-packages, echo = FALSE, eval = TRUE, message=FALSE, include = FALSE}
+
 library(ggrepel)
 library(tidyverse)
 library(scales)
@@ -37,6 +38,8 @@ library(ggpubr)
 #### Carreras más populares por categoria.
 
 ```{r, message = FALSE, warning = FALSE, fig.width=10, fig.height=6}
+
+
 
 library(plotly)
 theme_set(theme_light())
