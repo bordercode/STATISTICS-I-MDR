@@ -1,7 +1,12 @@
 ---
-title: "Sesión 2"
-output: html_document
+date: "2022-03-02T10:08:21+06:00"
+description: This is meta description
+draft: false
+image: 
+title: SS2  
+type: featured
 ---
+
 
 
 
