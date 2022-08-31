@@ -6,9 +6,12 @@ title: Calendario sesiones
 ---
 
 
-Las clases se proponen en horario matutino  de lunes y miércoles, con 2 sesiones de 1.5 hrs. por semana. Para un total de 30 sesiones en el curso que se compone de  45 horas efectivas de clase. 
+Las sesiones se llevarán a cabo en los siguientes horarios: 
 
-> **Lunes     9:30 am - 11:00 am**
+
+## Septiembre
+
+> ** Miércoles     10  am - 1:00 pm**
 
 > **Miércoles 9:30 am - 11:00 am**
 
