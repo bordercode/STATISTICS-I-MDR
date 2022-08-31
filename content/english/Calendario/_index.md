@@ -6,40 +6,92 @@ title: Calendario sesiones
 ---
 
 
-Las sesiones se llevarán a cabo en los siguientes horarios: 
+El curso comprende **16 sesiones** que se llevarán a cabo en las siguientes fechas y horarios: 
 
 
 ## Septiembre
 
-> Sesión 1: **Miércoles   7**  En horario de **10  am - 1 pm**   
+> ### Sesión 1  
+> #### Miércoles   7 
+>  - **Hora:   10  am - 1 pm**
 
-> Presentación del profesor, entrega y explicación del programa del curso: objetivos de aprendizaje, temario, bibliografía, actividades evaluativas y  método de evaluación.
+#### Objetivos: 
+Presentación del profesor, entrega y explicación del programa del curso: objetivos de aprendizaje, temario, bibliografía, actividades evaluativas y método de evaluación.  
 
+Evaluación en tres dimensiones: Ejercicios en clase, ejercicios asigandos de práctica (tarea), 
 
+**Actividades en clase:**
 
-> **Viernes  9:30 am - 11:00 am**
-
-
-### Sesiones por mes.
-
-#### Septiembre
-
-Clases los dias **lunes** 5, 12, 19, 26 y **miércoles**  7, 14, 21, y 28 
+Instalación de R y R  Studio.  Anaconda, Python. Dar tutorial del entorno de trabajo de Jupyter Notebook.  
 
 
-#### Octubre
+****
 
-Clases los dias **lunes** 3, 10, 17, 24  31 y **miércoles**  5, 19, 26 
+> ### Sesión 2  
+> #### Viernes 9         
+>  - **Hora: 3-5 pm**
+
+#### Objetivos de aprendizaje:
+****
+
+> ### Sesión 3  
+> #### Lunes  12         
+>  - **Hora: 3-5 pm**
+
+#### Objetivos de aprendizaje:
+****
+
+> ### Sesión 4 
+> #### Miercoles 14
+>  - **Hora: 10- 1pm  y 3 -5 pm**
+
+#### Objetivos de aprendizaje:
+****
 
 
-#### Noviembre
 
-Clases los dias **lunes** 7, 14, 28 y **miércoles**  9, 16, 23, 30  (sesiones del 23 y 30  con duración de 2 horas)
+> ### Sesión 5 
+> #### Miercoles 21
+>  - **Hora: 10- 1pm**
 
+#### Objetivos de aprendizaje:
+****
 
-#### Diciembre
+> ### Sesión 6 
+> #### Miercoles 28
+>  - **Hora: 10- 1pm**
 
-Clases los dias **lunes** 5, 12  y **miércoles** 7 y 14 (Sesiones de 2 horas.)
+#### Objetivos de aprendizaje:
+****
+## Octubre 
 
+> ### Sesión 7 
+> #### Miércoles 5
+>  - **Hora: 10- 1pm**
 
+#### Objetivos de aprendizaje:
+****
+
+> ### Sesión 8 
+> #### Miércoles 19
+>  - **Hora: 10- 1pm**
+
+#### Objetivos de aprendizaje:
+****
+
+> ### Sesión 9 
+> #### Miércoles 26
+>  - **Hora: 10- 1pm**
+
+#### Objetivos de aprendizaje:
+****
+
+## Noviembre 
+
+> ### Sesión 9 
+> #### Miércoles 26
+>  - **Hora: 10- 1pm**
+
+#### Objetivos de aprendizaje:
+****
 ![](calendario.jpg)
