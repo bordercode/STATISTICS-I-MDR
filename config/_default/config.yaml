@@ -1,5 +1,5 @@
-baseURL: https://estadistica-1-mdr-2022.netlify.app/
-title: ASAS
+baseURL: https://estadistica2022-mdr.netlify.app/
+title: Estadística
 theme: bigspring-light
 paginate: '3'
 summaryLength: '15'

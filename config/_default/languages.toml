@@ -1,7 +1,7 @@
 ############################# English ############################
 [en]
 languageName = "En"
-title = "Bigspring Hugo"
+title = "Estadística"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
@@ -17,9 +17,9 @@ copyright = "José Luis Manzanares Rivera site Design By [Themefisher](https://t
 ############################# Deutsch ############################
 
 ########### footer content ##########
-footer_menu_left = "Firma"
-footer_menu_middle = "Produkte"
-footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_menu_left = "Materiales de apoyo"
+footer_menu_middle = "Ayuda para repaso"
+footer_menu_right = "Docs Administrativos"
+footer_content = "Animate y aprende nuevas habilidades. La estadistica es una herramienta poderosa para generar información."
 # copyright
-copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
+copyright = "José Luis Manzanares Rivera. Los materiales disponibes se ofrecen con fines educativos bajo la filosofía de difusión universal del conocimiento. Design by [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
