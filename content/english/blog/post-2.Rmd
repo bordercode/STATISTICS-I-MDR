@@ -3,7 +3,7 @@ date: "2022-03-01T10:08:21+06:00"
 description: This is meta description
 draft: false
 image: 
-title: SS2  
+title: P2  
 type: featured
 ---
 
