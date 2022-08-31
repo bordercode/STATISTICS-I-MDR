@@ -41,7 +41,7 @@ Instalación de R y R  Studio.  Anaconda, Python. Dar tutorial del entorno de tr
 #### Objetivos de aprendizaje:
 ****
 
-> ### Sesión 4 
+> ### Sesión 4  y 5 
 > #### Miercoles 14
 >  - **Hora: 10- 1pm  y 3 -5 pm**
 
@@ -50,14 +50,14 @@ Instalación de R y R  Studio.  Anaconda, Python. Dar tutorial del entorno de tr
 
 
 
-> ### Sesión 5 
+> ### Sesión 6 
 > #### Miercoles 21
 >  - **Hora: 10- 1pm**
 
 #### Objetivos de aprendizaje:
 ****
 
-> ### Sesión 6 
+> ### Sesión 7 
 > #### Miercoles 28
 >  - **Hora: 10- 1pm**
 
@@ -65,21 +65,21 @@ Instalación de R y R  Studio.  Anaconda, Python. Dar tutorial del entorno de tr
 ****
 ## Octubre 
 
-> ### Sesión 7 
+> ### Sesión 8 
 > #### Miércoles 5
 >  - **Hora: 10- 1pm**
 
 #### Objetivos de aprendizaje:
 ****
 
-> ### Sesión 8 
+> ### Sesión 9 
 > #### Miércoles 19
 >  - **Hora: 10- 1pm**
 
 #### Objetivos de aprendizaje:
 ****
 
-> ### Sesión 9 
+> ### Sesión 10 
 > #### Miércoles 26
 >  - **Hora: 10- 1pm**
 
@@ -88,10 +88,48 @@ Instalación de R y R  Studio.  Anaconda, Python. Dar tutorial del entorno de tr
 
 ## Noviembre 
 
-> ### Sesión 9 
-> #### Miércoles 26
+> ### Sesión 11
+> #### Miércoles 9
 >  - **Hora: 10- 1pm**
 
 #### Objetivos de aprendizaje:
 ****
+
+> ### Sesión 12 
+> #### Miércoles 16
+>  - **Hora: 10- 1pm**
+
+#### Objetivos de aprendizaje:
+****
+
+> ### Sesión 13 
+> #### Miércoles 23
+>  - **Hora: 10- 1pm**
+
+#### Objetivos de aprendizaje:
+****
+
+> ### Sesión 14
+> #### Miércoles 30
+>  - **Hora: 10- 1pm**
+
+#### Objetivos de aprendizaje:
+****
+
+
+## Diciembre
+
+> ### Sesión 15 
+> #### Miércoles 7
+>  - **Hora: 10- 1pm**
+
+#### Objetivos de aprendizaje:
+****
+> ### Sesión 16 
+> #### Miércoles 14
+>  - **Hora: 10- 1pm**
+
+#### Objetivos de aprendizaje:
+****
+
 ![](calendario.jpg)
