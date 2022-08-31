@@ -26,3 +26,6 @@ Presentar la vinculación entre estadística descriptiva e inferencial, así com
 
 
 ### Actividad a evaluar.
+Estimación de medidas de tendencia central y  visualización. 
+
+
