@@ -1,5 +1,5 @@
 ---
-title: "s2"
+title: "Sesión 2"
 output: html_document
 ---
 
