@@ -1,0 +1,53 @@
+---
+title: "s2"
+output: html_document
+---
+
+
+
+```{r set-global-options, echo=FALSE, message=FALSE, warning=FALSE}
+knitr::opts_chunk$set(eval = TRUE, 
+                      echo = TRUE, 
+                      cache = FALSE,
+                      include = TRUE,
+                      collapse = FALSE,
+                      dependson = NULL,
+                      engine = "R", # Chunks will always have R code, unless noted
+                      error = FALSE)                     
+
+```
+
+
+
+```{r silent-packages, echo = FALSE, eval = TRUE, message=FALSE, include = FALSE}
+library(ggrepel)
+library(tidyverse)
+library(scales)
+library(ggpubr)
+```
+
+### Correlación entre Salario medio y participación de la Mujer en empleo.
+
+
+#### Carreras más populares por categoria.
+
+```{r, message = FALSE, warning = FALSE, fig.width=10, fig.height=6}
+
+library(plotly)
+theme_set(theme_light())
+
+graduados<-readRDS("graduados.rds")
+
+  g<-ggplot(graduados,aes(ShareWomen,Median, color=Area,size=Sample_size, label=Major))+
+  geom_point()+
+  geom_smooth(aes(group=1),method = "lm")+
+  expand_limits(y=0)+
+  scale_color_brewer(palette="Dark2")+
+  scale_y_continuous(labels=dollar_format())+
+  scale_x_continuous(labels=percent_format())+
+  labs(x="Mujeres/Hombres", y="Salario Medio  US$")+
+    theme(legend.position="botton")
+  
+  ggplotly(g)
+
+```
