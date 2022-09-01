@@ -46,7 +46,7 @@ R studio
 
 3. Windows and Mac [download](https://www.rstudio.com/products/rstudio/download/#download)
 
-![](/images/blog/installrstudio.png) 
+![](/images/blog/installrstudio.jpg) 
 
 ### A. Nociones Teóricas
 
