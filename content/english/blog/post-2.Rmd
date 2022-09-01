@@ -36,6 +36,17 @@ library(plotly)
 
 [Notación](https://www.geeksforgeeks.org/central-tendency-in-r-programming/#:~:text=Central%20Tendency%20is%20one%20of,centre%20value%20of%20the%20distribution.)
 
+Ejemplo 1
+
+```{r, include=FALSE}
+
+# Defining vector
+x <- c(3, 7, 5, 13, 20, 23, 39, 23, 40, 23, 14, 12, 56, 23)
+
+# Print mean
+print(mean(x))
+```
+
  
  Explicación tabla de frecuancia.
  
