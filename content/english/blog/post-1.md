@@ -29,3 +29,20 @@ Presentar la vinculación entre estadística descriptiva e inferencial, así com
 Estimación de medidas de tendencia central y  visualización. 
 
 
+
+
+
+> ### Software Setup (Installation).
+
+![](/images/blog/r.jpg)
+
+
+1. On wndows: [download](http://cran.cnr.berkeley.edu/)
+2. Mac [download](http://cran.cnr.berkeley.edu/)
+
+R studio 
+
+3. Windows and Mac [download](https://www.rstudio.com/products/rstudio/download/#download)
+
+![](/images/blog/installrstudio.jpg) 
+
