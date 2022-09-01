@@ -69,7 +69,7 @@ Ejempo 1 Estimación de medidas de tendencia central básicas.
 
 #### Carreras más populares por categoria.
 
-```{r, message = FALSE, warning = FALSE, fig.width=10, fig.height=6, include= false}
+```{r, message = FALSE, warning = FALSE, fig.width=10, fig.height=6, include= FALSE}
 
 theme_set(theme_light())
 
