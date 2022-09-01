@@ -60,12 +60,26 @@ print(m)
 ```
 
 
+ 
 
-### Correlación entre Salario medio y participación de la Mujer en empleo.
+
+### Ejempo 1 Estimación de medidas de tendencia central básicas. 
+
+###Datos: Correlación entre Salario medio y participación de la Mujer por categoria de ocupación.
 
 
-Ejempo 1 Estimación de medidas de tendencia central básicas. 
 
+```{r, include=FALSE}
+
+# install.packages("datagovindia")
+
+library(datagovindia)
+
+url<-"https://github.com/bordercode/STATISTICS-I-MDR/blob/main/content/english/blog/graduados.rds?raw=true"
+
+ejercicio_1<-read_rds_from_github(url)
+
+```
 
 #### Carreras más populares por categoria.
 
@@ -74,8 +88,10 @@ Ejempo 1 Estimación de medidas de tendencia central básicas.
 theme_set(theme_light())
 
 # Cargamos los datos.
+# get data using code chunk above.
 
 graduados<-readRDS("graduados.rds")
+
 
 # Exploración básica para conocer la estructura.
 
