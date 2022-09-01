@@ -121,20 +121,20 @@ El entono de trabajo de **R**, (IDE *Integrated Development Environment*) permit
 
  **Source pane** Permite el registro de los comandos las operaciones utilizadas. (el código utilizado)
  
-![](/source.jpg)
+![](/images/blog/source.jpg)
 
 **Environment** 
 
-![](/environment.jpg)
+![](/images/blog/environment.jpg)
 
 **Console y Terminal pane** Area para  introducir código y  ejecutarlo.
 
-![](/console.jpg)
+![](/images/blog/console.jpg)
 
 **Viewer**
 
 
-![](/viewer.jpg)
+![](/images/blog/viewer.jpg)
 
 
 A medida que avanzamos con el aprendizaje de la implementación en R aprenderemos a manejar elementos en el entorno de R como: **los objetos**, **tipos de datos**,  **notación**, **funciones**, etc.,
@@ -145,7 +145,7 @@ Estos se integran por  funciones que se han construido por miembros de la comuni
 Para poder utilizar estos paquetes es necesario instalarlos y activarlos en el espacio de trabajo usando el menú Install y Packages. Área inferior izquierda. La siguiente figura muestra el menú para instalarlos.
 
 
-![](/Packages.jpg)
+![](/images/blog/Packages.jpg)
 
 
 Alternativamente podemos utilizar la línea de comandos para hacer la instalación usando la función: `install.packages("ggplot2")`.
@@ -219,20 +219,22 @@ Un data frame agrupa los **vectores en columnas**, de tal forma que cada vector 
 
 Ejemplo 1
 
-![](/dataframe.jpg)
+![](/images/blog/dataframe.jpg)
 
 Ejemplo 2
 
-![](/dataframe2.jpg)
+![](/images/blog/dataframe2.jpg)
 
 *Ejemplo.** 
 
 Cargamos un data frame (df) con la función read.csv(). Este df  esta alojado en un archivo de texto separado por comas **commas separeted values**  (.csv) nombrado **ebc15.csv** en la ruta indicada entre comillas: **"C:/Users/..."**. 
 ```{r}
 
+egresos<-"https://raw.githubusercontent.com/bordercode/STATISTICS-I-MDR/main/content/english/blog/egresosBC15.csv"
 
-ebc15<-read.csv("C:/Users/LENOVO/Desktop/DESK/web/Cursos/public/post/egresosBC15.csv")%>%
-select(-X)  
+ebc15<-read.csv(egresos)%>%
+  select(-X) 
+
 
 names(ebc15)
 glimpse(ebc15)
@@ -251,7 +253,7 @@ Para evitar escribir todo el análisis nuevamente, el *work flow* recomendado en
 
 Aún mejor si deseamos podemos almacenar el código en un archivo R Markdown  [R Markdown](https://rmarkdown.rstudio.com/), lo que nos permite la flexibilidad de crear el resultado del análisis en diversos formatos incluido html. Sí, una página web para consultarla en internet que podemos alojar en servidores como [Netlify](https://www.netlify.com/) o repositorios como [Github](https://github.com/) y publicar el contenido usando **githubweb pages** .
 
-![](/scripts.jpg)
+![](/images/blog/scripts.jpg)
 
 Una vez que almacenamos el código en un script podemos ejecutar cada linea de este código (just hit enter en frente de la linea de código a ejecutar), seleccionar una porción  (y lo ejecutamos con ctr+enter) o bien ejecturar todo el **code chunk** (como le decimos en la comunidad **R** a las porciones de código de un script.) utilizando la función **Run** del menú superior. 
 
@@ -306,7 +308,7 @@ Dado
 
 **Note:** Cuando creamos un objeto este aparece en la parte superior derecha en el área de environment
 
-![](/environment.jpg)
+![](/images/blog/environment.jpg)
 
 
 ```{r }
