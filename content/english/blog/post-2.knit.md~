@@ -1,0 +1,86 @@
+---
+title: "Viernes 9 Sep"
+author: "JLMR"
+date: 2022-03-01T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+
+
+
+
+
+
+
+
+ 
+### Media
+
+[Notación](https://www.geeksforgeeks.org/central-tendency-in-r-programming/#:~:text=Central%20Tendency%20is%20one%20of,centre%20value%20of%20the%20distribution.)
+
+Ejemplo 1
+
+
+```r
+# Defining vector
+x <- c(3, 7, 5, 13, 20, 23, 39, 23, 40, 23, 14, 12, 56, 23)
+
+# Print mean
+print(mean(x))
+```
+
+```
+## [1] 21.5
+```
+
+ 
+ Explicación tabla de frecuancia.
+ 
+
+```r
+# Defining vector
+x <- c(3, 7, 5, 13, 20, 23, 39, 23, 40,
+	23, 14, 12, 56, 23, 29, 56, 37,
+	45, 1, 25, 8, 56, 56)
+
+# Generate frequency table
+y <- table(x)
+
+# Print frequency table
+print(y)
+```
+
+```
+## x
+##  1  3  5  7  8 12 13 14 20 23 25 29 37 39 40 45 56 
+##  1  1  1  1  1  1  1  1  1  4  1  1  1  1  1  1  4
+```
+
+```r
+# Mode of x
+m <- names(y)[which(y == max(y))]
+
+# Print mode
+print(m)
+```
+
+```
+## [1] "23" "56"
+```
+
+
+ 
+
+
+### Ejempo 1 Estimación de medidas de tendencia central básicas. 
+
+###Datos: Correlación entre Salario medio y participación de la Mujer por categoria de ocupación.
+
+
+
+
+
+#### Carreras más populares por categoria.
+
+
