@@ -110,7 +110,7 @@ El entono de trabajo de **R**, (IDE *Integrated Development Environment*) permit
 
 ![](/images/blog/IDE.jpg)
 
-![](/images/blog/IDE2.jpg)
+![](https://raw.githubusercontent.com/JoseLuisManzanaresRivera/intersemestral-2021/main/public/post/R_IDE2.jpg)
 
 
  **Source pane** Permite el registro de los comandos las operaciones utilizadas. (el código utilizado)
