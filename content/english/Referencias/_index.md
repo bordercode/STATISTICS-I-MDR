@@ -55,3 +55,23 @@ Springer.
 (Unidad VI, Excelente para intro  to R   Sesión I Unidad I )
 
 
+
+#### Bibliografía complementaria.
+
++ Modern R with the tidyverse, Bruno Rodriguez.  2020, [book](https://b-rodrigues.github.io/modern_R/)
+
++	R for Data Science: Import, Tidy, Transform, Visualize, and Model Data  2017,  Hadley Wickham, Garrett Grolemund,  O’Reilly Media ISBN 10: 1491910399E Enlace del libro:  [Book](https://r4ds.had.co.nz/)
+
+
++	The Art of Data Science A Guide for Anyone Who Works with Data. Roger D. Peng and Elizabeth Matsui. Leanpub.2015.
+
++	Wickham  Hadley. Elegant Graphics for Data Analysis, Springer.2009.
+
++	Wilkinson   Leland. The Grammar of Graphics, Second Edition. Springer. 2005.
+
++	Report Writing for Data Science in R. Roger D. Peng © 2015 - 2016 Roger D. Peng.
+
+***
+
+
+
