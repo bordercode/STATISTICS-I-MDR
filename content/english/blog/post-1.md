@@ -91,6 +91,7 @@ El entono de trabajo de **R**, (IDE *Integrated Development Environment*) permit
 ![](/viewer.jpg)
 
 
+
 A medida que avanzamos con el aprendizaje de la implementación en R aprenderemos a manejar elementos en el entorno de R como: **los objetos**, **tipos de datos**,  **notación**, **funciones**, etc.,
 
 ### Instalación de Paquetes.
