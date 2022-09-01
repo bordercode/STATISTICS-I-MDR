@@ -4,10 +4,7 @@ banner:
     enable: true
     label: Inicio
     link: blog/
-  content: <div align="left"> En esta asignatura aprenderas a aplicar los fundamentos teórico-metodológicos de la estadística y aplicar la estadística descriptiva e inferencial en variables en distintos contexto de interés para el desarrollo regional como economía, salud pública y medio ambiente, lo que te permitirá analizar una determinada dinámica incorporando una perspectiva territorial.
-  **Competencias a desarrollar:** Análisis cuantitativo,
-Trabajo colaborativo.
-El curso de soporte a la formación en métodos cuantitativos para las materias de estadistica II, Técnicas de análisis regionaly  Economía regional durante el programa.</div>
+  content: <div align="left"> En esta asignatura aprenderas a aplicar los fundamentos teórico-metodológicos de la estadística y aplicar la estadística descriptiva e inferencial en variables en distintos contexto de interés para el desarrollo regional como economía, salud pública y medio ambiente, lo que te permitirá analizar una determinada dinámica incorporando una perspectiva territorial. </div>
     
   image: images/banner-art.svg
   title: Estadística I
