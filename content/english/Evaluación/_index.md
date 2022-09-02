@@ -48,9 +48,11 @@ El formato del reporte incluye la siguiente estructura: Introducción, Datos y m
 Para la introducción es necesario elaborar material audiovisual para establecer la justificación del problema a analizar, un breve video explicativo para difundir en exposición con el grupo.
 
 
-**Fecha de entrega** y presentación: Miércoles 30 de noviembre, 2022
+**Fecha:** Examen Mid-term. Miércoles 26 de octubre 2022. Hora: 10:13:00 .
 
-**Fecha:** Examen Mid-term. Junio 6 2022. Hora: 10:13:00 .
+**Fecha de entrega** y presentación: Miércoles 30 de noviembre, 2022.
+
+
 
 
 {{< faq "Will updates also be free?" >}}
