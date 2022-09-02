@@ -202,4 +202,4 @@ $$\sigma^2_{X}=E[(X-\mu)^2]$$
 Raíz cuadrada de la varianza.
 
 $$\sqrt{\sigma^2} = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(x_i - \bar{X})^2}$$
-![](/images/blog/stdev.jpg)
+
