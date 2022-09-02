@@ -13,6 +13,7 @@ El curso de desarrollará mediante los siguientes elementos:
 
 {{< Cognitivas: Verificación, y contextualización. >}}
 {{</ faq >}}
+
 +	Metacognitivas: atención dirigida y selectiva.
 
 +	Socio-afectivas: cooperación grupal y aclaración de dudas.
