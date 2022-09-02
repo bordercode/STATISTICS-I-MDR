@@ -18,7 +18,8 @@ El curso comprende **16 sesiones** que se llevarán a cabo en las siguientes fec
 #### Objetivos: 
 Presentación del profesor, entrega y explicación del programa del curso: objetivos de aprendizaje,  bibliografía, actividades a evaluar y método de evaluación.  
 
-Evaluación en tres dimensiones: Ejercicios en clase, ejercicios asigandos de práctica (tarea), 
+Evaluación en tres dimensiones: Ejercicios en clase, ejercicios asigandos de práctica (tarea), proyecto Análiss exporatorio de datos (EDA) en formato R markdown. 
+
 
 **Actividades en clase:**
 

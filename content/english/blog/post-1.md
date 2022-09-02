@@ -7,7 +7,7 @@ title: I. Estadística descriptiva y Análisis exploratorio.
 type: featured
 ---
 
-### Sesión 2
+### Miercoles 7 de Septiembre
 
 #### Objetivo 
 
