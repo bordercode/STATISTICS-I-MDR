@@ -191,7 +191,6 @@ Medidas de Dispersón:
 
 El valor promedio de las desviaciones de cada elemento *i*  respecto a la media.
 
-![](/images/blog/var.jpg)
 
 $$V(X)= Var(X)=\sigma^2_{X}$$
 
