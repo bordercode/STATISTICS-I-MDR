@@ -16,7 +16,7 @@ El curso comprende **16 sesiones** que se llevarán a cabo en las siguientes fec
 >  - **Hora:   10  am - 1 pm**
 
 #### Objetivos: 
-Presentación del profesor, entrega y explicación del programa del curso: objetivos de aprendizaje, temario, bibliografía, actividades evaluativas y método de evaluación.  
+Presentación del profesor, entrega y explicación del programa del curso: objetivos de aprendizaje,  bibliografía, actividades a evaluar y método de evaluación.  
 
 Evaluación en tres dimensiones: Ejercicios en clase, ejercicios asigandos de práctica (tarea), 
 
