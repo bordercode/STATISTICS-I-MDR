@@ -80,7 +80,8 @@ print(moda)
  
 ### Media
 
-[Notación](https://www.geeksforgeeks.org/central-tendency-in-r-programming/#:~:text=Central%20Tendency%20is%20one%20of,centre%20value%20of%20the%20distribution.)
+$$\bar{x}=\frac{1}{n} (\sum_{i=1}^{n} x_i) =\frac{x_1 +x_2+...+x_n}{n}$$
+
 
 Ejemplo  2
 
@@ -173,3 +174,25 @@ summary(graduados)
   ggplotly(g)
 
 ```
+
+
+
+
+Medidas de Dispersón: 
+
+### Rango
+
+### Varianza
+
+El valor promedio de las desviaciones de cada elemento *i*  respecto a la media $\mu$   
+
+$$V(X)= Var(X)=\sigma^2_{X}$$
+
+$$\sigma^2_{X}=E[(X-\mu)^2]$$
+
+### Desviación estándard. 
+
+Raíz cuadrada de la varianza.
+
+$$\sqrt{\sigma^2} = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(x_i - \bar{X})^2}$$
+![](/images/blog/stdev.jpg)
