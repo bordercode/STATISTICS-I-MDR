@@ -32,7 +32,7 @@ Instalación de R y R  Studio.  Anaconda, Python. Dar tutorial del entorno de tr
 > #### Viernes 9         
 >  - **Hora: 3-5 pm**
 
-#### Objetivos de aprendizaje:
+#### Objetivos de aprendizaje: 
 ****
 
 > ### Sesión 3  

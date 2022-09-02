@@ -11,8 +11,8 @@ title: Método de evaluación.
 
 El curso de desarrollará mediante los siguientes elementos:
 
-{{< Cognitivas: Verificación, y contextualización. >}}
-{{</ faq >}}
++ Cognitivas: Verificación, y contextualización.
+
 
 +	Metacognitivas: atención dirigida y selectiva.
 

@@ -25,9 +25,11 @@ Presentar la vinculación entre estadística descriptiva e inferencial, así com
 3 horas. 
 
 
-> ### Software Setup [Installation](https://stat2022-01.netlify.app/sesion-1/)
+> ### R Software Setup [Installation](https://stat2022-01.netlify.app/sesion-1/)
 
 
+> ### Python  Software Setup
+![](/images/blog/anaconda.jpg)
 
 
-
+**Tarea:** instalar Anacanda en  [download](https://www.anaconda.com/)
