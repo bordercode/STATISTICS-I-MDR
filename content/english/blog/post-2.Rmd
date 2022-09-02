@@ -4,7 +4,7 @@ author: "JLMR"
 date: 2022-03-01T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
-mathjax : true
+mathjax: true
 ---
 
 
@@ -185,7 +185,9 @@ Medidas de Dispersón:
 
 ### Varianza
 
-El valor promedio de las desviaciones de cada elemento *i*  respecto a la media $\mu$   
+El valor promedio de las desviaciones de cada elemento *i*  respecto a la media.
+
+![](/images/blog/var.jpg)
 
 $$V(X)= Var(X)=\sigma^2_{X}$$
 
