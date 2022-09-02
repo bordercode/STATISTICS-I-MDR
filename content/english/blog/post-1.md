@@ -25,8 +25,7 @@ Presentar la vinculación entre estadística descriptiva e inferencial, así com
 3 horas. 
 
 
-> ### Software Setup (Installation)
-[enlace](https://stat2022-01.netlify.app/sesion-1/)
+> ### Software Setup [Installation](https://stat2022-01.netlify.app/sesion-1/)
 
 
 
