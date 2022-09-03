@@ -28,8 +28,73 @@ Presentar la vinculación entre estadística descriptiva e inferencial, así com
 > ### R Software Setup [Installation](https://stat2022-01.netlify.app/sesion-1/)
 
 
+
+**Tarea:** instalar Anacanda en  [download](https://www.anaconda.com/)
+
 > ### Python  Software Setup
 ![](/images/blog/anaconda.jpg)
 
+Dos alternativas para comenzar entorno de trabajo jupyter notebooks.
 
-**Tarea:** instalar Anacanda en  [download](https://www.anaconda.com/)
+- Via anaconda prompt: 
+
+**Step 1** Open  anaconda prompt
+
+![](/images/blog/anaconda1.jpg)
+
+**Step 2**  type **jupyter notebook**
+
+**Step 3**  create a new jupyternotebook 
+
+and Select **Python 3**.
+
+![](/images/blog/anaconda4.jpg)
+
+![](/images/blog/anaconda5.jpg)
+
++ via Anaconda Navigator
+
+**Step 1**  Open Anaconda  from windows 
+
+![](/images/blog/anaconda3.jpg)
+
+**Step 2**  Lunch Jupyter notebook app
+
+![](/images/blog/anaconda2.jpg)
+
+
+
+Material adicional de apoyo para la instalación disponible en: 
+
+![Extra help](https://makeschool.org/mediabook/oa/tutorials/titanic-dataset-tutorial-an-intro-to-data-analysis-and-statistics-n40/jupyter-notebooks/)
+
+
+
+
+La idea fundamental detrás del uso de Python como una de las herramientas de análisis mas importantes en la investigación y desarrollo en la universidades principales de todo e mundo es que permite transparencia en el proceso de análisis.
+
+La explicación de cómo se generaron las estimaciones esta integrada con las mismas operaciones que relizamos y el código es replicable!
+
+No se trata de una forma de presentación de los datos estática como un PDF que contiene graficas y texto, un notebook es un mecanismo interactivo activo en la red que integra el código para las estimaciones con los despliegues de visualización y el texto para explicar el proceso. Un jnb esta disponible en linea. De aqui lo interesante la importancia de plataformas **Open Source**
+
+
+### Conceptos básicos  sobre jnb.
+
++ Kernel: El lenguaje de programación que vamoas usar y con el que accedemos al **jnb**. ej. Python3,  
+
++ Notebook server: 
+
+El servidor que incializamos para lanzar  la aplicación (debe estar activo para trabajar en un nb particular)
+
+
+## Cell colors 
+
+- Green: Edit mode. Para incluir código.
+
+- Blue: command mode. Para agregar additional cells por ejemplo.
+
+## Notebook modes
+
+- Code: Importante para ejecutar funciones.
+
+-Markdown: Importante cuando necesitamos incluir texto.

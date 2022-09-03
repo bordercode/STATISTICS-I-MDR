@@ -117,7 +117,7 @@ median(x)
 
 ### Ejempo 1 Estimación de medidas de tendencia central básicas. 
 
-###Datos: Correlación entre Salario medio y participación de la Mujer por categoria de ocupación.
+#### Datos: Correlación entre Salario medio y participación de la Mujer por categoria de ocupación.
 
 
 
@@ -133,9 +133,7 @@ ejercicio_1<-read_rds_from_github(url)
 
 ```
 
-#### Carreras más populares por categoria.
-
-```{r, message = FALSE, warning = FALSE, fig.width=10, fig.height=6, include= FALSE}
+```{r, message = FALSE, warning = FALSE, fig.width=10, fig.height=6, echo= FALSE}
 
 theme_set(theme_light())
 
@@ -183,7 +181,7 @@ summary(graduados)
 
 
 
-Medidas de Dispersón: 
+## Medidas de Dispersón: 
 
 ### Rango
 
