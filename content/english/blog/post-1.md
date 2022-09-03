@@ -66,16 +66,18 @@ and Select **Python 3**.
 
 Material adicional de apoyo para la instalación disponible en: 
 
-![Extra help](https://makeschool.org/mediabook/oa/tutorials/titanic-dataset-tutorial-an-intro-to-data-analysis-and-statistics-n40/jupyter-notebooks/)
++ [Extra help](https://makeschool.org/mediabook/oa/tutorials/titanic-dataset-tutorial-an-intro-to-data-analysis-and-statistics-n40/jupyter-notebooks/)
 
 
 
 
-La idea fundamental detrás del uso de Python como una de las herramientas de análisis mas importantes en la investigación y desarrollo en la universidades principales de todo e mundo es que permite transparencia en el proceso de análisis.
+La idea fundamental detrás del uso de Python como una de las herramientas de análisis más importantes en la investigación y desarrollo en las universidades principales de todo el mundo es que permite transparencia en el proceso de análisis.
 
-La explicación de cómo se generaron las estimaciones esta integrada con las mismas operaciones que relizamos y el código es replicable!
+La explicación de cómo se generaron las estimaciones esta integrada con las mismas operaciones que realizamos y el código es replicable!
 
-No se trata de una forma de presentación de los datos estática como un PDF que contiene graficas y texto, un notebook es un mecanismo interactivo activo en la red que integra el código para las estimaciones con los despliegues de visualización y el texto para explicar el proceso. Un jnb esta disponible en linea. De aqui lo interesante la importancia de plataformas **Open Source**
+No se trata de una forma de presentación de los datos estática como un PDF que contiene gráficas y texto. Un jupyter notebook (o .ipynb  file) es un mecánismo interactivo, que esta alojado en la red e integra el código para las estimaciones cy permite desplegar los recursos visuales desde plots, html (ej. videos youtube), audio y el texto para explicar el proceso. 
+
+Un ipynb esta disponible en línea. De aquí la ventaja para el trabajo interactivo con la flexibilidad de plataformas **Open Source**
 
 
 ### Conceptos básicos  sobre jnb.
