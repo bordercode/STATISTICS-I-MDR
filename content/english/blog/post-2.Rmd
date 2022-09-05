@@ -10,5 +10,8 @@ image: "images/blog/posta.jpg"
 draft: false
 ---
 
+*Character is the architect of achievements*
 
 [Entra a la clase aquí](https://stat2022-01.netlify.app/sesion-2-viernes-9-sep/)
+
+
