@@ -7,8 +7,8 @@ title: Regresión Lineal prácticas
 type: regular
 ---
   
-  *Innovation distinguishes between a leader and a follower.*
+  *When something is important enough, you do it even if the odds are not in your favor.*
   
-  **Steve jobs**
+  **Elon Musk**
   
   ![Entra a la clase aquí]()

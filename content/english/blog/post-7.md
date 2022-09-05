@@ -7,3 +7,8 @@ title: Regresión Lineal prácticas
 type: regular
 ---
 
+*Innovation distinguishes between a leader and a follower.*
+
+**Steve jobs**
+
+![Entra a la clase aquí]()
