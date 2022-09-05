@@ -1,5 +1,5 @@
 ---
-title: "Sesion 2. Viernes 9 Sep"
+title: "Sesión 2. Viernes 9 Sep"
 author: "JLMR"
 date: 2022-03-01T21:13:14-05:00
 type: "regular"
