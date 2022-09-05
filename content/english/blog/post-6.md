@@ -7,3 +7,8 @@ title: Extensiones al Regresión lineal y Diagnóstico de resultados
 type: regular
 ---
 
+*Las cifras no mienten, pero los mentirosos también usan cifras.*  **Anónimo.**
+
+Un buen inicio de semana...
+
+![Entra a la clase aquí]()
