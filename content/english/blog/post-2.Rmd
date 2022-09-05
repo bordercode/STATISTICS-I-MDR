@@ -11,4 +11,4 @@ draft: false
 ---
 
 
-[Entra a la clase aquí](https://stat2022-01.netlify.app/sesion-1/)
+[Entra a la clase aquí](https://stat2022-01.netlify.app/sesion-3-viernes-9-sep/)
