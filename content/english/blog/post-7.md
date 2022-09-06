@@ -11,4 +11,4 @@ type: regular
 
 **Steve jobs**
 
-![Entra a la clase aquí]()
+[Entra a la clase aquí]()

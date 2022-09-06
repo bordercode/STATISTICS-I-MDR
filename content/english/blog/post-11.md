@@ -11,4 +11,4 @@ type: regular
 *Mark Zuckerberg*
 
 
-![Entra a la clase aquí]()
+[Entra a la clase aquí]()

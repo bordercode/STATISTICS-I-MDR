@@ -10,4 +10,4 @@ type: regular
 
 
 Bien hecho , las metas se alcanzan y no  hay plazo que no se cumpla. 
-  ![Entra a la clase aquí]()
+[Entra a la clase aquí]()

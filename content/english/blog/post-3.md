@@ -10,4 +10,4 @@ type: regular
 *True knowledge is knowledge of why things are as they are, and not merely what they are.* **Isaiah Berlin.**
 Samprit Chatterjee (2012) 
 
-![Entra a la clase aquí](https://stat2022-01.netlify.app/sesion-3-lunes-12sep/)
+[Entra a la clase aquí](https://stat2022-01.netlify.app/sesion-3-lunes-12sep/)

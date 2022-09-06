@@ -11,4 +11,4 @@ type: regular
   
   **Bradley Lilly**
   
-  ![Entra a la clase aquí]()
+[Entra a la clase aquí]()

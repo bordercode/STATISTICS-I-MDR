@@ -9,4 +9,4 @@ type: regular
 
 *Hoy es mas importante que ayer pero menos que mañana...* **Giussepe Rafaelli Bergomi.**
 
-![Entra a la clase aquí]()
+[Entra a la clase aquí]()

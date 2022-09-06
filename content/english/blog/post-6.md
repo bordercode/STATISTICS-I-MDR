@@ -11,4 +11,4 @@ type: regular
 
 Un buen inicio de semana...
 
-![Entra a la clase aquí]()
+[Entra a la clase aquí]()

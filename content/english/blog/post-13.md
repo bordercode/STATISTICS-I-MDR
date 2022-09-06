@@ -11,4 +11,4 @@ type: regular
 
 *Chris Hart*
   
-  ![Entra a la clase aquí]()
+  [Entra a la clase aquí]()

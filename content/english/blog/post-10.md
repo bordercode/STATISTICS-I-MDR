@@ -12,5 +12,4 @@ type: regular
 **“The biggest risk is not taking any risk... In a world that changing really quickly, the only strategy that is guaranteed to fail is not taking risks.”**
 *Mark Zuckerberg*
 
-
 ![Entra a la clase aquí]()

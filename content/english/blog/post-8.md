@@ -11,4 +11,4 @@ type: regular
   
   **Elon Musk**
   
-  ![Entra a la clase aquí]()
+  [Entra a la clase aquí]()

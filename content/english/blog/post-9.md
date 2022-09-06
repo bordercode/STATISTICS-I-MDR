@@ -11,6 +11,6 @@ type: regular
 **Solving big problems is easier than solving little problems**
 *Sergey Brin*
 
-  ![Entra a la clase aquí]()
+  [Entra a la clase aquí]()
   
   
