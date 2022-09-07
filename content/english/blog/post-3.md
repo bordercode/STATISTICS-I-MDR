@@ -11,3 +11,4 @@ type: regular
 Samprit Chatterjee (2012) 
 
 [Entra a la clase aquí](https://stat2022-01.netlify.app/sesion-3-lunes-12sep/)
+
